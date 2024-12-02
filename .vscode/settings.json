@@ -1,0 +1,14 @@
+{
+    "ruff.lint.select": [
+        "ALL"
+    ],
+    "ruff.lint.ignore": [
+        "T201"
+    ],
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.defaultFormatter": "charliermarsh.ruff",
+    "[python]": {
+        "editor.defaultFormatter": "charliermarsh.ruff"
+    }
+}
