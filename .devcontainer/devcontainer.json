@@ -20,7 +20,7 @@
 			],
 			"settings": {
 				"ruff.lint.select": ["ALL"],
-				"ruff.lint.ignore": ["T201"],
+				"ruff.lint.ignore": ["T201","FBT001","FBT002"],
 				"editor.formatOnSave": true,
 				"editor.formatOnPaste": true,
 				"editor.defaultFormatter": "charliermarsh.ruff",
