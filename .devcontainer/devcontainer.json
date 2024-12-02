@@ -16,7 +16,8 @@
 				"vivaxy.vscode-conventional-commits",
 				"ms-python.isort",
 				"charliermarsh.ruff",
-				"tamasfe.even-better-toml"
+				"tamasfe.even-better-toml",
+				"njpwerner.autodocstring"
 			],
 			"settings": {
 				"ruff.lint.select": ["ALL"],
